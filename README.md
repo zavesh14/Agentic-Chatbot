@@ -29,17 +29,10 @@ This project demonstrates how **Agentic AI** can combine:
 | Component           | Technology          |
 | ------------------- | ------------------- |
 | **Language**        | Python              |
-| **Frameworks**      | LangChain, FastAPI  |
-| **AI Models**       | OpenAI / Local LLMs |
-| **Database**        | SQLite / MongoDB    |
-| **Frontend**        | Streamlit / React   |
+| **Frameworks**      | LangChain  |
+| **AI Models**       | Groq |   |
+| **Frontend**        | Streamlit 
 | **Version Control** | Git & GitHub        |
 
 ---
 
-## 🧪 Setup Instructions
-
-1. Clone the repository
-   ```bash
-   git clone https://github.com/<your-username>/Agentic-Chatbot.git
-   ```
