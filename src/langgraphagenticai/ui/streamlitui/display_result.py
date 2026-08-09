@@ -38,7 +38,7 @@ class DisplayResultStreamlit:
                     with st.chat_message("assistant"):
                         st.write(message.content)
 
-        elif usecase == "AI news":
+        elif usecase == "AI News":
             frequency = self.user_message
             with st.spinner("Fetching and summarizing news... ⏳"):
                 result=graph.invoke({"messages":frequency})
